@@ -28,7 +28,7 @@ Use the categories to build a shortlist, then compare current pricing, supported
 
 - [Add to CRM](https://addtocrm.com/) — Browser extension for capturing and enriching prospects from LinkedIn, Gmail, and Outlook, with CRM integrations.
 - [Hublead](https://www.hublead.io/) — HubSpot-focused LinkedIn extension for viewing, creating, enriching, and updating CRM records while prospecting.
-- [LeadCRM](https://leadcrm.io/) — Connects LinkedIn and Sales Navigator workflows with CRMs for profile capture, enrichment, field mapping, activity sync, and related sales workflows.
+- [LeadCRM](https://www.leadcrm.io/) — Connects LinkedIn and Sales Navigator workflows with CRMs for profile capture, enrichment, field mapping, activity sync, and related sales workflows.
 - [Surfe](https://www.surfe.com/) — Prospecting, enrichment, buying-signal, and CRM-sync platform for go-to-market teams.
 
 ## LinkedIn outreach and engagement
